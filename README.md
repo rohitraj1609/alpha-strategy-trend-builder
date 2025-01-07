@@ -49,7 +49,8 @@ The objective was to:
 ## Output
 Below is an example output of the strategy for **Adani Ports & SEZ**:
 
-![Strategy Output](./image.png)
+![image](https://github.com/user-attachments/assets/96d785ef-070c-4828-a24f-4c86e49c5910)
+
 
 ### Key Signals
 - **Green Dots**: Entry points (Long entry with BB breakout and RSI confirmation).  
