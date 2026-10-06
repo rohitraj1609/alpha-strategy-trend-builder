@@ -1,7 +1,7 @@
 # Alpha Strategy: Trend Detection and Trade Strategy Builder
 
 ## Overview
-This repository contains our project for the Hackathon Techfest Hackathon, sponsored by Dhan App, where we secured **3rd Runner-up** position.
+This repository contains our project for the Hackathon Techfest Hackathon, sponsored by Dhan App, where we secured **3rd place**.
 
 Our problem statement, **Alpha Strategy: Trend Detection and Trade Strategy Builder**, aimed to develop a robust trading strategy using historical price data to maximize alpha while maintaining an optimal balance between risk and reward.
 
@@ -81,4 +81,4 @@ Below is an example output of the strategy for **Adani Ports & SEZ**:
 ## Acknowledgments
 - Hackathon: Hackathon Techfest
 - Sponsors: Dhan App
-- Team Achievement: Secured 3rd Runner-Up in the competition.
+- Team Achievement: Secured 3rd place in the competition.
